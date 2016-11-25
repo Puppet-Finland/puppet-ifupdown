@@ -1,0 +1,10 @@
+{
+  "name": "puppetfinland-ifupdown",
+  "version": "0.1.0",
+  "author": "Puppet-Finland team",
+  "license": "BSD license",
+  "summary": "Configure ifupdown",
+  "source": "https://github.com/Puppet-Finland/puppet-ifupdown.git",
+  "project_page": "https://github.com/Puppet-Finland/puppet-ifupdown",
+  "dependencies": [ ]
+}
